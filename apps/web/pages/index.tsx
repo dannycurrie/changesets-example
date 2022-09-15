@@ -1,4 +1,4 @@
-import { Button } from "ui";
+import { Button } from "danny-ui-components-test";
 
 export default function Web() {
   return (
