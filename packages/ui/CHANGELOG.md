@@ -1,5 +1,11 @@
 # danny-ui-components-test
 
+## 0.3.0
+
+### Minor Changes
+
+- 0d53128: Changed button
+
 ## 0.2.0
 
 ### Minor Changes
